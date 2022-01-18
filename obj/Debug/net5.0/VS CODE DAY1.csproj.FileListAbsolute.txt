@@ -1,0 +1,32 @@
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.exe
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.deps.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.dev.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.dll
+D:\VS CODE DAY1\bin\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.pdb
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csprojAssemblyReference.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfoInputs.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfo.cs
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csproj.CoreCompileInputs.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.dll
+D:\VS CODE DAY1\obj\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.pdb
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.genruntimeconfig.cache
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.exe
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.deps.json
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.json
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.dev.json
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.dll
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\Project VS CODE Traning\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.pdb
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csprojAssemblyReference.cache
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfoInputs.cache
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfo.cs
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csproj.CoreCompileInputs.cache
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.dll
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.pdb
+D:\Project VS CODE Traning\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.genruntimeconfig.cache
